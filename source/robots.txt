@@ -11,4 +11,4 @@ Allow: /images/
 Allow: /js/
 Allow: /lib/
 
-Sitemap: sxsong.xyz/sitemap.xml
+Sitemap: shinesong.github.io/sitemap.xml

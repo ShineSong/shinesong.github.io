@@ -334,18 +334,18 @@ font:
 
 # MathJax Support
 mathjax:
-  enable: false
+  enable: true
   per_page: false
   cdn: //cdn.bootcss.com/mathjax/2.7.1/latest.js?config=TeX-AMS-MML_HTMLorMML
 
 # Han Support docs: https://hanzi.pro/
-han: false
+han: true
 
 # Swiftype Search API Key
 #swiftype_key:
 
 # Baidu Analytics ID
-#baidu_analytics:
+baidu_analytics: d743a00d1d6a060cd490f9999e6fc9f2
 
 # Duoshuo ShortName
 #duoshuo_shortname:
@@ -387,7 +387,7 @@ valine:
 
 # Support for LiveRe comments system.
 # You can get your uid from https://livere.com/insight/myCode (General web site)
-livere_uid: MTAyMC8zMjA5OS84NjYz
+# livere_uid: MTAyMC8zMjA5OS84NjYz
 
 # Gitment
 # Introduction: https://imsun.net/posts/gitment-introduction/

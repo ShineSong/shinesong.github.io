@@ -1,4 +1,5 @@
 ---
-title: categories
+title: CATEGORIES
 comments: false
+type: "categories"
 ---
